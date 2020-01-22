@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: 75ba3415dd44e4ca8b566b1cb0860286
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable:
+  - first:
+      74: -7192889468030735421
+    second: Camera|Action.002
+  - first:
+      74: 6873665170557633863
+    second: Camera|Action.003
+  - first:
+      74: -8144549713445013318
+    second: Camera|Action.005
+  - first:
+      74: -4045020940093229156
+    second: Camera|Action.006
+  - first:
+      74: -327254157691901682
+    second: Camera|Action.007
+  - first:
+      74: 805052021561045510
+    second: Camera|Action.008
+  - first:
+      74: 4575452101807665616
+    second: Camera|Grip left
+  - first:
+      74: -1143236864012003502
+    second: Body|Action.002
+  - first:
+      74: -1618946862083987340
+    second: Body|Action.003
+  - first:
+      74: -7250306626485666182
+    second: Body|Action.005
+  - first:
+      74: 1111307862072803352
+    second: Body|Action.006
+  - first:
+      74: 1802097281869086498
+    second: Body|Action.007
+  - first:
+      74: 5810223288168522990
+    second: Body|Action.008
+  - first:
+      74: -4377251739926557069
+    second: Body|Grip left
+  - first:
+      74: 885944232402757753
+    second: Armature|Action
+  - first:
+      74: 4864456487366326693
+    second: Armature|Action.002
+  - first:
+      74: 2825254910079918813
+    second: Armature|Action.003
+  - first:
+      74: -2708284825985846246
+    second: Armature|Action.004
+  - first:
+      74: 5184763646461071743
+    second: Armature|Action.005
+  - first:
+      74: -7062170537753673755
+    second: Armature|Action.006
+  - first:
+      74: -5892199112726037482
+    second: Armature|Action.007
+  - first:
+      74: 3706092373337083699
+    second: Armature|Action.008
+  - first:
+      74: 1882377834704583646
+    second: Armature|Combat_idle
+  - first:
+      74: 1436691875045797791
+    second: Armature|Grip left
+  - first:
+      74: 3393377214530012804
+    second: Armature|Grip right
+  - first:
+      74: -3069739637691783728
+    second: Armature|Sword_Atk01
+  - first:
+      74: -7703988751533104497
+    second: Armature|Sword_Atk02
+  - first:
+      74: 7708070724893832537
+    second: Cube|Action.002
+  - first:
+      74: -7359060483159870833
+    second: Cube|Action.003
+  - first:
+      74: 1715905145045424855
+    second: Cube|Action.005
+  - first:
+      74: -3587525748790304198
+    second: Cube|Action.006
+  - first:
+      74: -4591980009297318453
+    second: Cube|Action.007
+  - first:
+      74: -3218130036111754938
+    second: Cube|Action.008
+  - first:
+      74: -818042989878270303
+    second: Cube|Grip left
+  - first:
+      74: 2307953817334563807
+    second: Cube|Sword_Atk01
+  - first:
+      74: 6258004046916411544
+    second: Cube.001|Action.002
+  - first:
+      74: -2435729125797612869
+    second: Cube.001|Action.003
+  - first:
+      74: -7353665045890391710
+    second: Cube.001|Action.005
+  - first:
+      74: 5348014019181549329
+    second: Cube.001|Action.006
+  - first:
+      74: -3578889545015652642
+    second: Cube.001|Action.007
+  - first:
+      74: 7100335447336531638
+    second: Cube.001|Action.008
+  - first:
+      74: 6554076571046897110
+    second: Cube.001|Combat_idle
+  - first:
+      74: 7130652016985361028
+    second: Cube.001|Grip left
+  - first:
+      74: -2352580460700281747
+    second: Cube.003|Action.002
+  - first:
+      74: -2060100740084896638
+    second: Cube.003|Action.003
+  - first:
+      74: -7337971338505961620
+    second: Cube.003|Action.005
+  - first:
+      74: -5523163318747545568
+    second: Cube.003|Action.006
+  - first:
+      74: -5693429333874875489
+    second: Cube.003|Action.007
+  - first:
+      74: -3490406012201923421
+    second: Cube.003|Action.008
+  - first:
+      74: -1939826365462373395
+    second: Cube.003|Grip left
+  - first:
+      74: 881611115179978669
+    second: Cube.003|Sword_Atk01
+  - first:
+      74: 998623046324046051
+    second: Cylinder|Action.002
+  - first:
+      74: -4643811000849555719
+    second: Cylinder|Action.003
+  - first:
+      74: -1606959811132837436
+    second: Cylinder|Action.005
+  - first:
+      74: 1763994122004446645
+    second: Cylinder|Action.006
+  - first:
+      74: 8092076480646103897
+    second: Cylinder|Action.007
+  - first:
+      74: 5582731986862836476
+    second: Cylinder|Action.008
+  - first:
+      74: -3733356260594679176
+    second: Cylinder|Grip left
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

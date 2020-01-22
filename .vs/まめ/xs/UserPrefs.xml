@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{94B1AE46-6CEB-7965-405F-38BB2DB09987}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CameraSample.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Move1.cs" />
+      <File FileName="Assets/Scripts/test.cs" Line="30" Column="1" />
+      <File FileName="Assets/Scripts/CameraSample.cs" Line="31" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="まめ" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="CameraSample.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5c7b5eda-4703-4b01-ac24-3e39b3dadd01" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
